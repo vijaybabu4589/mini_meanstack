@@ -1,6 +1,6 @@
 var http = require('http');
 var url = require('url');
-
+//vijay
 //function onrequest(req,res){
 //	var q = ur	l.parse(req.url, true);
 //	var qdata = q.query;
