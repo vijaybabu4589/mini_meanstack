@@ -1,7 +1,7 @@
 var http = require('http');
 var url = require('url');
-
-////function onrequest(req,res){
+//test
+//function onrequest(req,res){
 //	var q = ur	l.parse(req.url, true);
 //	var qdata = q.query;
 //	console.log(JSON.stringify(qdata.data));
