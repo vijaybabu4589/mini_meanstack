@@ -105,7 +105,7 @@ void senddata(){
   
               HTTPClient http;
   
-              http.begin("http://192.168.0.100/add_volume?value=vijaya");
+              http.begin("http://192.168.0.100/add_volume?value=1");
               //http.addHeader("Content-Type", "application/json\r\n");
               
               int httpCode = http.GET();
