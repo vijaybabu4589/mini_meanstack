@@ -8,7 +8,7 @@ var url = require('url');
 //	console.log(String(qdata.dataa));
 //res.end();
 //}
-//http.createServer(onrequest).listen('80','192.168.0.100');
+//http.createServer(onrequest).listen('80','192.168.0.102');
 //console.log('server started ...');
 
 
